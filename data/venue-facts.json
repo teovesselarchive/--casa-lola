@@ -1,0 +1,108 @@
+{
+  "name": "Casa Lola",
+  "verified": "2026-11-05",
+  "official": "https://www.vivacasalola.com/",
+  "address": "1132 16th St, Sacramento, CA 95814",
+  "phone": "916-446-0888",
+  "email": "info@vivacasalola.com",
+  "hours": {
+    "Monday–Thursday": "11:30 AM–9:00 PM",
+    "Friday": "11:30 AM–11:00 PM",
+    "Saturday": "10:00 AM–11:00 PM",
+    "Sunday": "10:00 AM–9:00 PM"
+  },
+  "brunch": "Saturday–Sunday 10 AM–3 PM",
+  "events": {
+    "mariachi": "Friday 6:30–8:30 PM; Sunday noon–2 PM",
+    "happyHour": "Monday–Thursday 3–6 PM, not available on show nights",
+    "tacoTuesday": "Tuesday 3–6 PM, $5 tacos",
+    "seasonal": "Casa de Otoño specials through November 27; date-limited, link to official page rather than evergreen promise"
+  },
+  "links": {
+    "menu": "https://www.vivacasalola.com/menu/",
+    "reservations": "https://www.vivacasalola.com/reservations/",
+    "toastReserve": "https://tables.toasttab.com/restaurants/c2cba9ee-bb71-459b-9baf-e3c3f8df2316/reserve",
+    "waitlist": "https://tables.toasttab.com/restaurants/c2cba9ee-bb71-459b-9baf-e3c3f8df2316/joinWaitlist",
+    "order": "https://order.toasttab.com/online/casa-lola-1132-16th-street",
+    "happenings": "https://www.vivacasalola.com/happenings/",
+    "giftCards": "https://order.toasttab.com/egiftcards/casa-lola-1132-16th-street",
+    "rewards": "https://www.toasttab.com/mac-hospitality-gift-card-1116-15th-street/rewardsSignup",
+    "careers": "https://www2.appone.com/Search/Search.aspx?ServerVar=wokintheparkllc.appone.com",
+    "instagram": "https://www.instagram.com/vivacasalola/",
+    "facebook": "https://www.facebook.com/vivacasalola916/",
+    "googleMaps": "https://www.google.com/maps?cid=8837773040611704723",
+    "privateEvents": "https://www.machospitalitygroup.com/casa-lola/"
+  },
+  "menuPDFs": [
+    {
+      "label": "BRUNCH",
+      "url": "https://www.vivacasalola.com/wp-content/uploads/2026/08/CasaLola_Brunch_Orange-2.pdf"
+    },
+    {
+      "label": "Dinner",
+      "url": "https://www.vivacasalola.com/wp-content/uploads/2026/08/CasaLola_Dinner-1.pdf"
+    },
+    {
+      "label": "Lunch",
+      "url": "https://www.vivacasalola.com/wp-content/uploads/2026/08/CasaLola_Lunch-1.pdf"
+    },
+    {
+      "label": "Drinks",
+      "url": "https://www.vivacasalola.com/wp-content/uploads/2026/02/CasaLola_Drinks.pdf"
+    },
+    {
+      "label": "Tequila",
+      "url": "https://www.vivacasalola.com/wp-content/uploads/2025/10/Tequila.pdf"
+    },
+    {
+      "label": "Kids",
+      "url": "https://www.vivacasalola.com/wp-content/uploads/2025/10/Kids.pdf"
+    },
+    {
+      "label": "Desserts",
+      "url": "https://www.vivacasalola.com/wp-content/uploads/2026/08/DessertMenu_1.2.pdf"
+    }
+  ],
+  "foodHighlights": [
+    "Guacamole",
+    "Ceviche Verde",
+    "Flautas de Pollo",
+    "Camarones a la Momia",
+    "Pollo en Mole",
+    "Enchiladas Verdes",
+    "Quesabirria",
+    "Tres Leches French Toast"
+  ],
+  "drinkHighlights": [
+    "Casa Margarita",
+    "Luna Morada",
+    "Martini de Olla",
+    "Viva la Vida",
+    "Mezcal and tequila selection",
+    "Horchata and Jamaica"
+  ],
+  "privateEvents": {
+    "standing": 250,
+    "seatedIncludingPatio": 160,
+    "indoorSeated": 132,
+    "phone": "916-442-8855",
+    "contact": "Diane Lally",
+    "source": "https://www.machospitalitygroup.com/casa-lola/"
+  },
+  "googleMapsInspection": {
+    "visuallyInspected": true,
+    "photos": [
+      "Exterior with cream facade and magenta logo/patio accents",
+      "Oct 2026 owner food photo",
+      "Oct 2026 dining room image by Mariachi Mexcali"
+    ],
+    "observations": "Woven pendants, magenta flowers, warm orange/pink/olive surfaces, dark ceiling, communal wood tables, active dining room; owner post confirms mariachi schedule and happy hour. Maps images are research only, not downloaded/reused.",
+    "ratingObserved": "4.3 from 275 reviews; do not freeze in design, official homepage old badge differs."
+  },
+  "uncertainties": [
+    "Official reservation page appends a stale 2025 date; use official landing URL or undated Toast reserve path.",
+    "MAC Casa Lola page contains clearly copied Más Taco Bar menu text and testimonials; exclude those sections.",
+    "Menus are changeable; link to current official PDFs or menu page.",
+    "Images retain original filenames; root should optimize responsive derivatives without altering originals."
+  ]
+}

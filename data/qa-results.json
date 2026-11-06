@@ -1,0 +1,127 @@
+{
+  "site": "casa-lola",
+  "html_pages": 12,
+  "static_errors": [],
+  "responsive": [
+    {
+      "slug": "casa-lola",
+      "height": 844,
+      "images": true,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "slug": "casa-lola",
+      "height": 844,
+      "images": true,
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "slug": "casa-lola",
+      "height": 1000,
+      "images": true,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "slug": "casa-lola",
+      "height": 1000,
+      "images": true,
+      "overflow": false,
+      "width": 1024
+    },
+    {
+      "slug": "casa-lola",
+      "height": 1000,
+      "images": true,
+      "overflow": false,
+      "width": 1440
+    }
+  ],
+  "interactions": {
+    "slug": "casa-lola",
+    "menuOpened": true,
+    "menuClosed": true,
+    "initial": "1 of 6",
+    "next": "2 of 6",
+    "gallery": {
+      "closed": true,
+      "restored": true
+    },
+    "faqOpened": true
+  },
+  "targeted_route_rechecks": [],
+  "external_http_checks": [
+    {
+      "url": "https://www.machospitalitygroup.com/",
+      "status": 200,
+      "final": "https://www.machospitalitygroup.com/"
+    },
+    {
+      "url": "https://www.machospitalitygroup.com/casa-lola/",
+      "status": 200,
+      "final": "https://www.machospitalitygroup.com/casa-lola/"
+    },
+    {
+      "url": "https://www.machospitalitygroup.com/planning-faq/",
+      "status": 200,
+      "final": "https://www.machospitalitygroup.com/planning-faq/"
+    },
+    {
+      "url": "https://www.vivacasalola.com/ada-accessibility/",
+      "status": 200,
+      "final": "https://www.vivacasalola.com/ada-accessibility/"
+    },
+    {
+      "url": "https://www.vivacasalola.com/happenings/",
+      "status": 200,
+      "final": "https://www.vivacasalola.com/happenings/"
+    },
+    {
+      "url": "https://www.vivacasalola.com/privacy-policy/",
+      "status": 200,
+      "final": "https://www.vivacasalola.com/privacy-policy/"
+    },
+    {
+      "url": "https://www.vivacasalola.com/terms-of-use/",
+      "status": 200,
+      "final": "https://www.vivacasalola.com/terms-of-use/"
+    },
+    {
+      "url": "https://www.vivacasalola.com/wp-content/uploads/2025/10/Kids.pdf",
+      "status": 200,
+      "final": "https://www.vivacasalola.com/wp-content/uploads/2025/10/Kids.pdf"
+    },
+    {
+      "url": "https://www.vivacasalola.com/wp-content/uploads/2025/10/Tequila.pdf",
+      "status": 200,
+      "final": "https://www.vivacasalola.com/wp-content/uploads/2025/10/Tequila.pdf"
+    },
+    {
+      "url": "https://www.vivacasalola.com/wp-content/uploads/2026/02/CasaLola_Drinks.pdf",
+      "status": 200,
+      "final": "https://www.vivacasalola.com/wp-content/uploads/2026/02/CasaLola_Drinks.pdf"
+    },
+    {
+      "url": "https://www.vivacasalola.com/wp-content/uploads/2026/08/CasaLola_Brunch_Orange-2.pdf",
+      "status": 200,
+      "final": "https://www.vivacasalola.com/wp-content/uploads/2026/08/CasaLola_Brunch_Orange-2.pdf"
+    },
+    {
+      "url": "https://www.vivacasalola.com/wp-content/uploads/2026/08/CasaLola_Dinner-1.pdf",
+      "status": 200,
+      "final": "https://www.vivacasalola.com/wp-content/uploads/2026/08/CasaLola_Dinner-1.pdf"
+    },
+    {
+      "url": "https://www.vivacasalola.com/wp-content/uploads/2026/08/CasaLola_Lunch-1.pdf",
+      "status": 200,
+      "final": "https://www.vivacasalola.com/wp-content/uploads/2026/08/CasaLola_Lunch-1.pdf"
+    },
+    {
+      "url": "https://www.vivacasalola.com/wp-content/uploads/2026/08/DessertMenu_1.2.pdf",
+      "status": 200,
+      "final": "https://www.vivacasalola.com/wp-content/uploads/2026/08/DessertMenu_1.2.pdf"
+    }
+  ]
+}

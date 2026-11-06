@@ -1,0 +1,251 @@
+{
+  "researchedAt": "2026-11-06",
+  "scope": "Primary-source facts for the Casa Lola homepage revision. Research only. No UI edits or uploads.",
+  "sourcePriority": "Current live HTML and the August 2026 PDF linked by the current menu page take priority over search caches and older February menus.",
+  "signatureDishes": [
+    {
+      "name": "Queso Fundido",
+      "description": "Melted Oaxaca and Jack cheeses with house chorizo, green chile and flour tortillas.",
+      "photo": "AY3A2313-scaled.jpg",
+      "source": "https://www.vivacasalola.com/wp-content/uploads/2026/08/CasaLola_Dinner-1.pdf"
+    },
+    {
+      "name": "Chimichanga de Birria",
+      "description": "Crisp flour tortilla filled with slow-cooked brisket and Oaxaca cheese, with guacamole and dipping consommé.",
+      "photo": "AY3A2392-scaled.jpg",
+      "source": "https://www.vivacasalola.com/wp-content/uploads/2026/08/CasaLola_Dinner-1.pdf"
+    },
+    {
+      "name": "Camarones a la Momia",
+      "description": "Bacon-wrapped shrimp with jalapeño and Jack cheese, chipotle crema and cabbage slaw.",
+      "photo": "AY3A2442-scaled.jpg",
+      "source": "https://www.vivacasalola.com/wp-content/uploads/2026/08/CasaLola_Dinner-1.pdf"
+    },
+    {
+      "name": "Ceviche Verde",
+      "description": "Catch of the day with avocado, cucumber, jalapeño and tomatillo-lime.",
+      "photo": "AY3A2921-scaled.jpg",
+      "source": "https://www.vivacasalola.com/wp-content/uploads/2026/08/CasaLola_Dinner-1.pdf"
+    },
+    {
+      "name": "Enchiladas Verdes",
+      "description": "Chicken-filled corn tortillas with tomatillo sauce, green chile, cream cheese, queso fresco and crema.",
+      "photo": "AY3A6430-1-scaled.jpg",
+      "source": "https://www.vivacasalola.com/wp-content/uploads/2026/08/CasaLola_Dinner-1.pdf"
+    },
+    {
+      "name": "Pollo en Mole",
+      "description": "Roasted half chicken with house mole, pickled red onion, sesame and corn tortillas.",
+      "photo": "AY3A6328-2-scaled.jpg",
+      "source": "https://www.vivacasalola.com/wp-content/uploads/2026/08/CasaLola_Dinner-1.pdf"
+    }
+  ],
+  "dishSources": [
+    "https://www.vivacasalola.com/wp-content/uploads/2026/08/CasaLola_Dinner-1.pdf",
+    "https://order.toasttab.com/online/casa-lola-1132-16th-street",
+    "https://www.vivacasalola.com/menu/"
+  ],
+  "dishNotes": [
+    "These six are editorial highlights from the actual menu, not verified bestsellers or formally designated signature dishes.",
+    "Ingredients verified against the current August 2026 dinner PDF. Online-order descriptions sometimes differ. The current PDF includes cream cheese in Enchiladas Verdes.",
+    "Original photo mappings are from the restaurant website and prior visual inspection. Do not mislabel dishes or add ingredients beyond the source.",
+    "Avoid prices on image cards to prevent stale duplication of the current menus."
+  ],
+  "cocktailHighlights": [
+    {
+      "name": "Luna Morada",
+      "description": "Tequila, blackberry, rosemary, triple sec, lime and agave."
+    },
+    {
+      "name": "Martini de Olla",
+      "description": "Tequila, Mario’s espresso liqueur, house café de olla, cinnamon and mole bitters."
+    },
+    {
+      "name": "Viva la Vida",
+      "description": "Bahnez mezcal, Aperol, watermelon and lime."
+    }
+  ],
+  "cocktailSource": "https://www.vivacasalola.com/wp-content/uploads/2026/08/CasaLola_Dinner-1.pdf",
+  "weeklySchedule": {
+    "mariachi": [
+      {
+        "day": "Friday",
+        "start": "18:30",
+        "end": "20:30",
+        "display": "Friday 6:30–8:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "start": "12:00",
+        "end": "14:00",
+        "display": "Sunday noon–2 PM"
+      }
+    ],
+    "brunch": {
+      "days": [
+        "Saturday",
+        "Sunday"
+      ],
+      "start": "10:00",
+      "end": "15:00",
+      "display": "Saturday and Sunday, 10 AM–3 PM"
+    },
+    "happyHour": {
+      "days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "start": "15:00",
+      "end": "18:00",
+      "display": "Monday–Thursday, 3–6 PM",
+      "offers": [
+        "$1 off cervezas grandes",
+        "$2 off margaritas, wells and vinos",
+        "$3 off cocktails",
+        "Half off Para Empezar"
+      ],
+      "restrictions": [
+        "Not available on show nights",
+        "Half-off starters excludes Plato Familiar"
+      ]
+    },
+    "tacoTuesday": {
+      "day": "Tuesday",
+      "start": "15:00",
+      "end": "18:00",
+      "offer": "$5 tacos",
+      "restrictions": [
+        "Bar seating only",
+        "Not available on show nights"
+      ]
+    },
+    "stateWorkerLunch": {
+      "days": "Monday–Friday",
+      "price": "$10.95",
+      "offer": "One taco with rice, beans, and soda or tea",
+      "restriction": "State badge required",
+      "timeWindow": "No narrower time window is published on the current happenings page."
+    },
+    "sources": [
+      "https://www.vivacasalola.com/happenings/",
+      "https://www.vivacasalola.com/wp-content/uploads/2026/08/CasaLola_Dinner-1.pdf"
+    ],
+    "freshnessNote": "The current live HTML saved as happenings-current.html lists Friday and Sunday mariachi only. A cached web result adds Thursday 6–8 PM; exclude Thursday unless the venue reconfirms."
+  },
+  "seasonal": {
+    "name": "Casa de Otoño",
+    "end": "November 27",
+    "description": "Fall food and cocktail specials",
+    "source": "https://www.vivacasalola.com/happenings/",
+    "note": "The page does not print the year beside the end date. It is currently promoted as of 2026-11-06. Keep date-sensitive rather than permanent homepage content."
+  },
+  "parking": {
+    "verifiedCopy": "Street parking and nearby parking garages are available around the venue.",
+    "source": "https://www.machospitalitygroup.com/planning-faq/",
+    "scope": "The parent company states this about all of its venues. No Casa Lola-specific garage, validation arrangement, or rate is given.",
+    "unknown": [
+      "Free parking",
+      "Parking validation",
+      "Valet availability",
+      "Designated Casa Lola parking lot",
+      "Recommended named garage and its hours/rates"
+    ],
+    "link": "https://www.google.com/maps?cid=8837773040611704723"
+  },
+  "giftCards": {
+    "label": "Gift Cards",
+    "url": "https://order.toasttab.com/egiftcards/casa-lola-1132-16th-street",
+    "verified": "The official Casa Lola navigation links to this Toast e-gift-card page.",
+    "source": "https://www.vivacasalola.com/",
+    "unknown": [
+      "Cross-venue redemption rules",
+      "Denominations",
+      "Delivery choices",
+      "Terms and expiration"
+    ]
+  },
+  "rewards": {
+    "label": "MAC Rewards",
+    "url": "https://www.toasttab.com/mac-hospitality-gift-card-1116-15th-street/rewardsSignup",
+    "verified": "The official Casa Lola navigation links to the MAC Rewards signup.",
+    "source": "https://www.vivacasalola.com/",
+    "unknown": [
+      "Earning rate",
+      "Redemption thresholds",
+      "Signup bonus",
+      "Participating locations and exclusions"
+    ],
+    "copyRecommendation": "Use the simple action Join MAC Rewards. Do not promise specific points or discounts."
+  },
+  "storyAndLocalDetails": [
+    {
+      "fact": "Casa Lola is at 1132 16th Street in Downtown Sacramento.",
+      "source": "https://www.vivacasalola.com/"
+    },
+    {
+      "fact": "The venue is near the SAFE Credit Union Convention Center and Memorial Auditorium.",
+      "source": "https://www.machospitalitygroup.com/casa-lola/"
+    },
+    {
+      "fact": "The official brand story describes Casa Lola as a tribute to family and tradition, inspired by a beloved Lola.",
+      "source": "https://www.vivacasalola.com/",
+      "caution": "No name, family relationship, personal biography, hometown or founding date is supplied. Do not invent a grandmother story."
+    },
+    {
+      "fact": "The current menu includes tequila and mezcal cocktails, and house horchata, jamaica and seasonal aguas frescas.",
+      "source": "https://www.vivacasalola.com/wp-content/uploads/2026/08/CasaLola_Dinner-1.pdf"
+    },
+    {
+      "fact": "The restaurant has indoor seating and a patio; the private-events page lists 132 indoor seats and 160 total seated including the patio.",
+      "source": "https://www.machospitalitygroup.com/casa-lola/"
+    }
+  ],
+  "photographRecommendations": [
+    {
+      "file": "assets-original/AY3A4334-scaled.jpg",
+      "source": "https://www.machospitalitygroup.com/wp-content/uploads/2026/11/AY3A4334-scaled.jpg",
+      "role": "Bar and large-table image",
+      "observed": "Broad dining table, magenta placemats, woven pendants, olive-green shutters and the Casa Lola wordmark over the arched bar.",
+      "crop": "Wide horizontal image; keep sign and communal table. Strong beside a smaller detail crop."
+    },
+    {
+      "file": "assets-original/AY3A4306-scaled.jpg",
+      "source": "https://www.machospitalitygroup.com/wp-content/uploads/2026/11/AY3A4306-scaled.jpg",
+      "role": "Dining-room image",
+      "observed": "Orange wall, teal painted column, woven lamps, tan leather seating, wood tables and patterned floor.",
+      "crop": "A strong room crop with the orange wall and hanging lamps as focus."
+    },
+    {
+      "file": "assets-original/AY3A4423-scaled.jpg",
+      "source": "https://www.machospitalitygroup.com/wp-content/uploads/2026/11/AY3A4423-scaled.jpg",
+      "role": "Street and exterior image",
+      "observed": "Casa Lola facade, street-facing patio barrier, 16th Street sign and the large Johnny Cash mural visible behind the restaurant.",
+      "crop": "Use as a contextual wide street image. It is not an intimate patio seating image; do not label it The Patio."
+    }
+  ],
+  "photoNotes": [
+    "All five candidate images were visually inspected in this revision research. Recommended three are alternatives to the earlier 4277 hero, 4318 mural and 4290 frontal-bar selections.",
+    "No standalone patio seating photo is present among the original downloads. A room/bar/exterior grid is honest; a patio card would need another genuine asset.",
+    "AY3A4354-scaled.jpg is a good extra overhead room view with magenta flowers and colorful table settings; AY3A4291-scaled.jpg is a useful portrait room crop."
+  ],
+  "doNotImport": [
+    "Thursday mariachi from stale cache",
+    "Copied Más Taco Bar text or testimonials on MAC’s Casa Lola page",
+    "Fixed review ratings copied from stale homepage blocks",
+    "Invented founder biography or opening date",
+    "Unverified parking guarantees",
+    "Rewards points or gift-card rules that have not been verified"
+  ],
+  "unknowns": [
+    "Definition and calendar of show nights",
+    "Whether any Thursday mariachi returns later",
+    "Named patio seating image",
+    "Restaurant opening date",
+    "Who Lola was",
+    "Verified parking validation or garage rates",
+    "MAC Rewards earning and redemption rules",
+    "Gift-card cross-venue redemption terms"
+  ]
+}
